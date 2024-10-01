@@ -1,0 +1,14 @@
+D:\資料\C#\ConsoleApp12\bin\Debug\net8.0\ConsoleApp12.exe
+D:\資料\C#\ConsoleApp12\bin\Debug\net8.0\ConsoleApp12.deps.json
+D:\資料\C#\ConsoleApp12\bin\Debug\net8.0\ConsoleApp12.runtimeconfig.json
+D:\資料\C#\ConsoleApp12\bin\Debug\net8.0\ConsoleApp12.dll
+D:\資料\C#\ConsoleApp12\bin\Debug\net8.0\ConsoleApp12.pdb
+D:\資料\C#\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig
+D:\資料\C#\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.AssemblyInfoInputs.cache
+D:\資料\C#\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.AssemblyInfo.cs
+D:\資料\C#\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.csproj.CoreCompileInputs.cache
+D:\資料\C#\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.dll
+D:\資料\C#\ConsoleApp12\obj\Debug\net8.0\refint\ConsoleApp12.dll
+D:\資料\C#\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.pdb
+D:\資料\C#\ConsoleApp12\obj\Debug\net8.0\ConsoleApp12.genruntimeconfig.cache
+D:\資料\C#\ConsoleApp12\obj\Debug\net8.0\ref\ConsoleApp12.dll

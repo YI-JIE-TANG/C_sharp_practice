@@ -1,0 +1,14 @@
+D:\資料\C#\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.GeneratedMSBuildEditorConfig.editorconfig
+D:\資料\C#\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.AssemblyInfoInputs.cache
+D:\資料\C#\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.AssemblyInfo.cs
+D:\資料\C#\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.csproj.CoreCompileInputs.cache
+D:\資料\C#\ConsoleApp13\bin\Debug\net8.0\ConsoleApp13.exe
+D:\資料\C#\ConsoleApp13\bin\Debug\net8.0\ConsoleApp13.deps.json
+D:\資料\C#\ConsoleApp13\bin\Debug\net8.0\ConsoleApp13.runtimeconfig.json
+D:\資料\C#\ConsoleApp13\bin\Debug\net8.0\ConsoleApp13.dll
+D:\資料\C#\ConsoleApp13\bin\Debug\net8.0\ConsoleApp13.pdb
+D:\資料\C#\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.dll
+D:\資料\C#\ConsoleApp13\obj\Debug\net8.0\refint\ConsoleApp13.dll
+D:\資料\C#\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.pdb
+D:\資料\C#\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.genruntimeconfig.cache
+D:\資料\C#\ConsoleApp13\obj\Debug\net8.0\ref\ConsoleApp13.dll
